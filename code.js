@@ -5,7 +5,9 @@ function sayHi() {
 setInterval(sayHi, 3000);
 
 
-
+/* ------------------------------------
+        Callback functions
+------------------------------------- */
 
 
 var myList = [1,2,3,4,5];
